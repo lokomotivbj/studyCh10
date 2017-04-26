@@ -4,10 +4,10 @@ using namespace std;
 
 int main() {
 	system("chcp 1251");
-	vector<string> lNames =       { "Затирка", "Тихомиров", "Киреев", "Лебедев", "Кузнецов"};
-	vector<string> fNames =       { "Сергей", "Денис", "Роман", "Алексей", "Дмитрий"};
+	vector<string> lNames =       { "lName1", "lName2", "lName3", "lName4", "lName5"};
+	vector<string> fNames =       { "fName1", "fName2", "fName3", "fName4", "fName5"};
 	vector<string> phoneNumbers = { "9203504621", "9304587123", "9068721154", "9104221382", "9303539098" };
-	vector<string> emails =       { "zatirka@mail.ru", "tikhomirov@gmail.com", "kireev@yandex.ru", "lebedev@rambler.ru" ,"kuznetsov@mail.ru"};
+	vector<string> emails =       { "lName1@mail.ru", "lName2@gmail.com", "lName3@yandex.ru", "lName4@rambler.ru" ,"lName5@mail.ru"};
 	int day = 22;
 	int month = 6;
 	int year = 1986;
